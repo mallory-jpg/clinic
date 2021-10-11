@@ -1,7 +1,12 @@
-"""Breakdown of telehealth appointments by appointment notes"""
+"""
+Pie chart breakdown of telehealth appointments by appointment notes
+"""
+
+
 import pandas as pd
 from matplotlib import rc
 import matplotlib.pyplot as plt
+
 
 rc("font", **{"family":"serif", "serif":["Times"]})
 pd.options.mode.chained_assignment = None
