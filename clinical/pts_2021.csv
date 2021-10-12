@@ -1,0 +1,229 @@
+age,gender,race,sex_orient
+18,Female,Black or African American,Bisexual
+18,Female,Other Race,Bisexual
+18,Male,American Indian or Alaska Native,Straight or heterosexual
+19,Female,Black or African American,Straight or heterosexual
+19,Female,White,Bisexual
+19,Female,White,"Lesbian, gay or homosexual"
+19,Female,White,Straight or heterosexual
+19,Male,Black or African American,"Lesbian, gay or homosexual"
+19,Male,White,"Lesbian, gay or homosexual"
+19,Male,White,Straight or heterosexual
+20,Female,Asian,Straight or heterosexual
+20,Female,Black or African American,Straight or heterosexual
+20,Female,White,Bisexual
+20,Female,White,Straight or heterosexual
+20,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+20,Male,Other Race,"Lesbian, gay or homosexual"
+20,Male,White,Bisexual
+20,Male,White,Choose not to disclose
+20,Male,White,"Lesbian, gay or homosexual"
+21,Additional gender category or other,Asian,Bisexual
+21,Additional gender category or other,Asian,"Lesbian, gay or homosexual"
+21,Female,Asian,"Lesbian, gay or homosexual"
+21,Female,Black or African American,Straight or heterosexual
+21,Female,Other Race,Straight or heterosexual
+21,Female,White,Straight or heterosexual
+21,Genderqueer (neither exclusively male nor female),Asian,Something else
+21,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+21,Genderqueer (neither exclusively male nor female),White,Something else
+21,Male,Asian,Bisexual
+21,Male,Black or African American,Bisexual
+21,Male,White,"Lesbian, gay or homosexual"
+21,Male,White,Something else
+21,,White,
+22,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+22,Male,Asian,"Lesbian, gay or homosexual"
+22,Male,Black or African American,"Lesbian, gay or homosexual"
+22,Male,Other Race,Bisexual
+22,Male,Other Race,"Lesbian, gay or homosexual"
+22,Male,Other Race,Straight or heterosexual
+22,Male,White,Bisexual
+22,Male,White,"Lesbian, gay or homosexual"
+22,Male,White,Straight or heterosexual
+22,,Other Race,
+23,Female,African American,Straight or heterosexual
+23,Female,Black or African American,Bisexual
+23,Female,White,Bisexual
+23,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+23,Male,Black or African American,"Lesbian, gay or homosexual"
+23,Male,Black or African American,Straight or heterosexual
+23,Male,Other Race,"Lesbian, gay or homosexual"
+23,Male,Other Race,Straight or heterosexual
+23,Male,White,"Lesbian, gay or homosexual"
+24,Female,White,Bisexual
+24,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+24,Male,American Indian,"Lesbian, gay or homosexual"
+24,Male,Black or African American,Straight or heterosexual
+24,Male,Mexican American Indian,"Lesbian, gay or homosexual"
+24,Male,Other Race,Straight or heterosexual
+24,Male,White,Straight or heterosexual
+24,,White,"Lesbian, gay or homosexual"
+25,Choose not to disclose,White,Something else
+25,Female,Asian,Straight or heterosexual
+25,Female,Black or African American,Straight or heterosexual
+25,Female,White,Choose not to disclose
+25,Female,White,Straight or heterosexual
+25,Male,American Indian or Alaska Native,Bisexual
+25,Male,Asian,"Lesbian, gay or homosexual"
+25,Male,Black or African American,"Lesbian, gay or homosexual"
+25,Male,White,"Lesbian, gay or homosexual"
+26,Female,Asian,Straight or heterosexual
+26,Female,Black or African American,Bisexual
+26,Female,Black or African American,"Lesbian, gay or homosexual"
+26,Female,White,Something else
+26,Female,White,Straight or heterosexual
+26,Genderqueer (neither exclusively male nor female),Asian,Something else
+26,Male,Asian,"Lesbian, gay or homosexual"
+26,Male,Black or African American,"Lesbian, gay or homosexual"
+26,Male,Black or African American,Straight or heterosexual
+26,Male,Other Race,"Lesbian, gay or homosexual"
+26,Male,White,Bisexual
+26,Male,White,"Lesbian, gay or homosexual"
+26,Male,White,Straight or heterosexual
+27,Female,Asian,Straight or heterosexual
+27,Female,Black or African American,Choose not to disclose
+27,Female,Other Race,Straight or heterosexual
+27,Female,White,Something else
+27,Female,White,Straight or heterosexual
+27,Male,Asian,"Lesbian, gay or homosexual"
+27,Male,Black or African American,"Lesbian, gay or homosexual"
+27,Male,Black or African American,Straight or heterosexual
+27,Male,White,"Lesbian, gay or homosexual"
+28,Female,White,Choose not to disclose
+28,Female,White,Straight or heterosexual
+28,Male,Native Hawaiian or Other Pacific Islander,"Lesbian, gay or homosexual"
+28,Male,Other Race,"Lesbian, gay or homosexual"
+28,Male,Patient Declined,"Lesbian, gay or homosexual"
+28,Male,White,Bisexual
+28,Male,White,Choose not to disclose
+28,Male,White,"Lesbian, gay or homosexual"
+28,Male,White,Something else
+29,Female,Black or African American,Bisexual
+29,Female,Black or African American,Straight or heterosexual
+29,Female,Other Race,Straight or heterosexual
+29,Female,White,Bisexual
+29,Female,White,Something else
+29,Male,Asian,"Lesbian, gay or homosexual"
+29,Male,Black or African American,Straight or heterosexual
+29,Male,White,Bisexual
+29,Male,White,"Lesbian, gay or homosexual"
+29,Male,White,Straight or heterosexual
+29,,Patient Declined,"Lesbian, gay or homosexual"
+30,Additional gender category or other,Black or African American,"Lesbian, gay or homosexual"
+30,Female,Asian,Bisexual
+30,Female,Black or African American,Straight or heterosexual
+30,Female,White,Don't know
+30,Female,White,"Lesbian, gay or homosexual"
+30,Male,Asian,"Lesbian, gay or homosexual"
+30,Male,Black or African American,"Lesbian, gay or homosexual"
+30,Male,Black or African American,Straight or heterosexual
+30,Male,Patient Declined,Choose not to disclose
+30,Male,Patient Declined,Straight or heterosexual
+30,Male,White,Bisexual
+30,Male,White,Don't know
+30,Male,White,"Lesbian, gay or homosexual"
+30,Male,White,Straight or heterosexual
+31,Female,Other Race,Choose not to disclose
+31,Female,White,Bisexual
+31,Male,Black or African American,Bisexual
+31,Male,Black or African American,Don't know
+31,Male,Black or African American,"Lesbian, gay or homosexual"
+31,Male,Other Race,"Lesbian, gay or homosexual"
+31,Male,White,Bisexual
+31,Male,White,"Lesbian, gay or homosexual"
+32,Female,Black or African American,Straight or heterosexual
+32,Female,Other Race,"Lesbian, gay or homosexual"
+32,Genderqueer (neither exclusively male nor female),White,"Lesbian, gay or homosexual"
+32,Male,Black or African American,"Lesbian, gay or homosexual"
+32,Male,Black or African American,Straight or heterosexual
+32,Male,Other Race,"Lesbian, gay or homosexual"
+32,Male,White,Bisexual
+32,Male,White,"Lesbian, gay or homosexual"
+33,Female,Other Race,Straight or heterosexual
+33,Male,Asian,Something else
+33,Male,White,Bisexual
+33,Male,White,"Lesbian, gay or homosexual"
+34,Female,Black or African American,Straight or heterosexual
+34,Female,White,Straight or heterosexual
+34,Male,Asian,"Lesbian, gay or homosexual"
+34,Male,Black or African American,Bisexual
+34,Male,White,"Lesbian, gay or homosexual"
+34,Male,White,Straight or heterosexual
+35,Male,Black or African American,"Lesbian, gay or homosexual"
+35,Male,White,"Lesbian, gay or homosexual"
+36,Genderqueer (neither exclusively male nor female),Other Race,Bisexual
+36,Male,Black or African American,"Lesbian, gay or homosexual"
+36,Male,White,"Lesbian, gay or homosexual"
+36,Male,White,Straight or heterosexual
+37,Female,Black or African American,Something else
+37,Male,Asian,"Lesbian, gay or homosexual"
+37,Male,Black or African American,Straight or heterosexual
+37,Male,White,"Lesbian, gay or homosexual"
+37,Male,White,Straight or heterosexual
+38,Male,Black or African American,Bisexual
+38,Male,Black or African American,Straight or heterosexual
+38,Male,White,"Lesbian, gay or homosexual"
+39,Female,Black or African American,Straight or heterosexual
+39,Female,White,Straight or heterosexual
+39,Male,White,Bisexual
+39,Male,White,"Lesbian, gay or homosexual"
+40,Choose not to disclose,Patient Declined,Don't know
+40,Female,Other Race,Straight or heterosexual
+40,Female,White,Straight or heterosexual
+40,Male,White,"Lesbian, gay or homosexual"
+41,Female,White,Straight or heterosexual
+41,Male,White,"Lesbian, gay or homosexual"
+42,Male,Other Race,Bisexual
+42,Male,Other Race,"Lesbian, gay or homosexual"
+42,Male,White,"Lesbian, gay or homosexual"
+42,Male,White,Straight or heterosexual
+43,Female,Black or African American,Straight or heterosexual
+43,Male,White,"Lesbian, gay or homosexual"
+45,Male,African American,Straight or heterosexual
+45,Male,White,Straight or heterosexual
+46,Female,White,Straight or heterosexual
+46,Male,Black or African American,Straight or heterosexual
+46,Male,Other Race,"Lesbian, gay or homosexual"
+46,Male,White,"Lesbian, gay or homosexual"
+46,Male,White,Straight or heterosexual
+47,Male,Asian,"Lesbian, gay or homosexual"
+47,Male,Black or African American,Straight or heterosexual
+47,Male,White,"Lesbian, gay or homosexual"
+48,Male,Asian,"Lesbian, gay or homosexual"
+48,Male,Black or African American,Straight or heterosexual
+48,Male,White,"Lesbian, gay or homosexual"
+49,Genderqueer (neither exclusively male nor female),White,Something else
+49,Male,Asian,Bisexual
+49,Male,White,Bisexual
+49,Male,White,"Lesbian, gay or homosexual"
+50,Choose not to disclose,White,Bisexual
+50,Male,White,"Lesbian, gay or homosexual"
+51,Female,Black or African American,Straight or heterosexual
+51,Female,White,Straight or heterosexual
+51,Male,Asian,Choose not to disclose
+51,Male,Black or African American,Straight or heterosexual
+51,Male,White,"Lesbian, gay or homosexual"
+52,Female,White,Straight or heterosexual
+52,Male,Black or African American,Straight or heterosexual
+52,Male,Other Race,Bisexual
+52,Male,White,Bisexual
+52,Male,White,"Lesbian, gay or homosexual"
+53,Additional gender category or other,White,Something else
+53,Male,White,"Lesbian, gay or homosexual"
+53,Male,White,Something else
+54,Male,Black or African American,"Lesbian, gay or homosexual"
+54,Male,Patient Declined,Choose not to disclose
+54,Male,White,"Lesbian, gay or homosexual"
+55,Male,Black or African American,"Lesbian, gay or homosexual"
+55,Male,White,"Lesbian, gay or homosexual"
+56,,White,
+57,Female,Black or African American,Straight or heterosexual
+57,Male,White,"Lesbian, gay or homosexual"
+58,Male,White,"Lesbian, gay or homosexual"
+59,Female,American Indian or Alaska Native,Straight or heterosexual
+59,Female,White,Straight or heterosexual
+59,Male,White,"Lesbian, gay or homosexual"
+60,Male,White,Bisexual
+62,Male,White,"Lesbian, gay or homosexual"
+62,Male,White,Straight or heterosexual
