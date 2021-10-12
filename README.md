@@ -5,7 +5,7 @@ This project uses the following libraries.
 * MatPlotLib: `pip3 install matplotlib`
 
 ## Demographic Data
-## Patient Gender Breakdown by Race
+### Patient Gender Breakdown by Race
 ![Screen Shot 2021-03-01 at 2 25 23 PM](https://user-images.githubusercontent.com/65197541/136866084-cc587820-451c-4e49-9fef-80539fc12b9d.jpg)
 **Gender Types**
 * Trans woman
