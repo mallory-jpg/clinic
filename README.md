@@ -1,6 +1,5 @@
 # Non-Profit Clinical Data Analysis
-
-## Libraries Used
+This project uses the following libraries.
 * Numpy: `pip3 install numpy`
 * Pandas: `pip3 install pandas`
 * MatPlotLib: `pip3 install matplotlib`
