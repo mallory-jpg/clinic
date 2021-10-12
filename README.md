@@ -1,6 +1,7 @@
 # Non-Profit Clinical Data Analysis
 
-![Patients by Appointment Type png](https://user-images.githubusercontent.com/65197541/134558320-1fca5e51-f38d-41dc-872d-3dbe9e9338e4.png)
+![patients_by_appt_type](https://user-images.githubusercontent.com/65197541/136875269-93a98c2d-8432-411b-ad3a-30e2c8828302.png)
+
 ![Telehealth Appointments by Care Needs](https://user-images.githubusercontent.com/65197541/134558140-9f55dc1c-19bd-4b00-8244-aaca216f0d5d.PNG)
 
 ![final_new_pt_by_month](https://user-images.githubusercontent.com/65197541/136866076-41bc2857-449e-41f7-89b6-87d80820d0ce.png)
