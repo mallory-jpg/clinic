@@ -38,7 +38,9 @@ The telehealth appointments at this clinic were not assigned using pre-determine
 * The appointment types were parsed using string methods on the encompassing Pandas DataFrames
 
 ### Number of New Patients by Month vs Mask Requests
-I began a campaign to distribute free COVID-19 face masks around Austin, Texas in late summer of 2020. We advertised along the local university's bus route, targeting folks under 33 (33 is Austin's average age). The following graphs show a corresponding uptick in new patient enrollment for younger people under the age of 33. Our marketing campaign corresponds with an increase in younger patient enrollment up to 30%!
+I began a campaign to distribute free COVID-19 face masks around Austin, Texas in late summer of 2020. We advertised along the local university's bus route, targeting folks under 33 (33 is Austin's average age). 
+* The following graphs show a corresponding uptick in new patient enrollment for younger people under the age of 33.* 
+* Our marketing campaign corresponds with an increase in younger patient enrollment up to 30%!*
 
 **Number of COVID-19 Masks Requested by Month**
 ![final_masks_by_month](https://user-images.githubusercontent.com/65197541/136866089-4de5bd21-20f0-4b1c-b72b-7daac23d7331.png)
