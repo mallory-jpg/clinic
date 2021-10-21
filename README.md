@@ -3,6 +3,8 @@ This project uses the following libraries.
 * Numpy: `pip3 install numpy`
 * Pandas: `pip3 install pandas`
 * MatPlotLib: `pip3 install matplotlib`
+* scikit-learn: `pip install -U scikit-learn`
+* Seaborn: `pip install seaborn`
 
 ## Demographic Data
 ### Patient Gender Breakdown by Race
