@@ -6,7 +6,8 @@ This project uses the following libraries.
 
 ## Demographic Data
 ### Patient Gender Breakdown by Race
-![Screen Shot 2021-03-01 at 2 25 23 PM](https://user-images.githubusercontent.com/65197541/136866084-cc587820-451c-4e49-9fef-80539fc12b9d.jpg)
+![final gender breakdown by race](https://user-images.githubusercontent.com/65197541/138353056-d819745c-520b-4179-b912-27ee9a677ab5.png)
+
 **Gender Types**
 * Trans woman
 * Trans man
