@@ -5,6 +5,8 @@ This project uses the following libraries.
 * MatPlotLib: `pip3 install matplotlib`
 
 ## Demographic Data
+![IMG_4077](https://user-images.githubusercontent.com/65197541/138337341-06df4f22-95bc-4a04-8702-902508e33b53.PNG)![IMG_4078](https://user-images.githubusercontent.com/65197541/138337398-f621a64b-245c-426a-8462-5d49244b42d1.PNG)
+
 ### Patient Gender Breakdown by Race
 ![Screen Shot 2021-03-01 at 2 25 23 PM](https://user-images.githubusercontent.com/65197541/136866084-cc587820-451c-4e49-9fef-80539fc12b9d.jpg)
 **Gender Types**
