@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 pd.options.display.max_columns = None
 
 # read in patient data
-patients = pd.read_csv("/Users/mallory/ashwell_refactor/clinic/clinical/pts_2021.csv")
+patients = pd.read_csv("pts_2021.csv")
 
 # create patient DataFrame
 df = pd.DataFrame(patients)
